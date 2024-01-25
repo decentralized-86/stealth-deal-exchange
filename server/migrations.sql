@@ -1,0 +1,4 @@
+CREATE TABLE exchange(
+  id SERIAL PRIMARY KEY,
+  swap_id INTEGER NOT NULL
+);
